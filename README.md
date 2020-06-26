@@ -1,2 +1,2 @@
 # GitTutorials
-This is for GitTutorial
+This is for GitTutorial for self-learning
